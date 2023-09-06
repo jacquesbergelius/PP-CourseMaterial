@@ -1,11 +1,11 @@
 # Programming Project
 Learning Resources for the Java Project in Metropolia's Software Engineering Curriculum
-- [General Info]()
+- [General Info](0.1_General_Information.md)
 
 ## Module 1: Simulation
 - [Introduction](1.1_Introduction_to_Simulation.md)
-- [Three Phase Simulation]()
-- [Distributions]()
+- [Three Phase Simulation](1.2_Three_Phase_Simulation.md)
+- [Probability Distributions]()
 - [Performance variables]()
 
 ## Module 2: Project Work
