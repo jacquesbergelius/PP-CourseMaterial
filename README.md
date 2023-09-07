@@ -5,7 +5,7 @@ Learning Resources for the Java Project in Metropolia's Software Engineering Cur
 ## Module 1: Simulation
 - [Introduction](1.1_Introduction_to_Simulation.md)
 - [Three Phase Simulation](1.2_Three_Phase_Simulation.md)
-- [Probability Distributions]()
+- [Probability Distributions](1.3_Probability_Distributions.md)
 - [Performance variables]()
 
 ## Module 2: Project Work
