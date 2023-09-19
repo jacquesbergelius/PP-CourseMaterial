@@ -15,6 +15,6 @@ Learning Resources for the Java Project in Metropolia's Software Engineering Cur
 
 ## Module 3: Implementation of the Simulator
 - [Architecture overview](3.1_Architecture_Overview.md)
-- [MVC and the simulator]()
+- [MVC and the simulator](3.2_MVC_And_Simulator.md)
 - [2D graphic and events]()
 
