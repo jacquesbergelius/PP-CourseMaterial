@@ -9,9 +9,8 @@ Learning Resources for the Java Object-Oriented Programming Project in Metropoli
 - [Performance variables](1.4_Performance_Variables.md)
 
 ## Module 2: Project Work
-- [General]()
-- [ProjectWorkDocumentTemplate](docs/ProjectWorkDocumentTemplate.docx)
 - [ProjectWorkGuidance](2.3_Project_Work_Guidance.md)
+- [ProjectWorkDocumentTemplate](docs/ProjectWorkDocumentTemplate.docx)
 
 ## Module 3: Implementation of the Simulator
 - [Architecture overview](3.1_Architecture_Overview.md)
