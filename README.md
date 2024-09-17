@@ -1,6 +1,6 @@
 # Programming Project
 Learning Resources for the Java Object-Oriented Programming Project in Metropolia's Software Engineering Curriculum
-- [General GeneralInfo](0.1_General_Information.md)
+- [General Info](0.1_General_Information.md)
 
 ## Module 1: Simulation
 - [Introduction](1.1_Introduction_to_Simulation.md)
